@@ -22,6 +22,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/public-storage-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/public-storage
   - type: Website
@@ -32,6 +34,8 @@ common:
     url: https://help.publicstorage.com
   - type: Careers
     url: https://www.publicstoragejobs.com
+  - type: Blog
+    url: https://www.publicstorage.com/blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
