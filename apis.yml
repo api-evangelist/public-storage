@@ -21,6 +21,12 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/public-storage.png
 tags:
+  - Self Storage
+  - REIT
+  - Real-Estate
+  - Consumer Services
+  - Fortune 1000
+tags_raw:
   - Self-Storage
   - REIT
   - Real Estate
