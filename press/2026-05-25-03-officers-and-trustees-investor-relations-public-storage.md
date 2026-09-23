@@ -1,7 +1,9 @@
 ---
 title: Officers & Trustees - Investor Relations - Public Storage
 url: https://investors.publicstorage.com/governance/officers-trustees/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Public Storage" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Public Storage Accelerates Growth with Simply Self ...
 url: https://www.linkedin.com/posts/public-storage_public-storage-accelerates-growth-with-simply-activity-7089661040111603712-bUS1
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Public Storage" press release artificial intelligence'
 position: 5
 source: serpapi-google

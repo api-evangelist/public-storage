@@ -1,7 +1,9 @@
 ---
 title: Public Storage Accelerates Growth with Simply Self ...
 url: https://www.breit.com/press-releases/article/public-storage-accelerates-growth-with-simply-self-storage-acquisition/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Public Storage" press release artificial intelligence'
 position: 4
 source: serpapi-google
